@@ -10,7 +10,7 @@ Analyse réalisée le 19 novembre 2026. Ce document prépare le README ; il ne c
 | [LinkedIn](https://www.linkedin.com/in/moucharaf-adeochun/) | Texte des missions et deux captures du profil transmis par l'utilisateur ; tentatives d'accès direct et recherche ciblée | Accès direct bloqué, code 999 ; analyse limitée aux éléments fournis, sans lecture exhaustive du profil en ligne |
 | Synthèse Bing transmise par l'utilisateur | Comparaison avec le texte des missions, les captures et le portfolio | Source secondaire ; ses formulations ne sont pas toutes confirmées par les sources directes |
 | [Profil GitHub public](https://github.com/Raf-is-Tech) | Profil et liste des dépôts via l'API publique GitHub | Les dépôts privés et le compte authentifié ne sont pas accessibles par cette lecture |
-| [Documentation GitHub](https://docs.github.com/en/account-and-profile/how-tos/profile-customization/managing-your-profile-readme) | Conditions d'affichage d'un README de profil | Le dépôt distant reste à créer ou à connecter |
+| [Documentation GitHub](https://docs.github.com/en/account-and-profile/how-tos/profile-customization/managing-your-profile-readme) | Conditions d'affichage d'un README de profil | Conditions remplies après la création du dépôt public et la publication |
 
 Les informations ci-dessous combinent le portfolio avec le texte et les captures LinkedIn transmis par l'utilisateur. La capture de l'expérience confirme le titre « Ingénieur logiciel » chez Vertim Coders et un début en novembre 2025. Le texte des missions fourni précise le périmètre professionnel. La capture Formation montre ESM-BENIN, la période 2022–2025 et une licence avec l'intitulé anglais « Computer Programming, Specific Applications ».
 
@@ -86,4 +86,4 @@ L'adresse e-mail retenue est celle de la page Contact. Les numéros de télépho
 
 D'après la documentation GitHub, le README doit se trouver à la racine d'un dépôt **public nommé `Raf-is-Tech`**, identique au pseudonyme du compte. Le nom local `Raf-is-Tech(Readme)` n'empêche pas cet usage.
 
-L'initialisation locale ne crée aucun dépôt distant. La configuration d'un remote et la publication seront traitées dans une étape ultérieure.
+Après l'initialisation locale, l'utilisateur a créé le dépôt public [Raf-is-Tech/Raf-is-Tech](https://github.com/Raf-is-Tech/Raf-is-Tech). Le remote `origin` pointe vers ce dépôt et la branche locale `main` suit `origin/main`. Le README et les visuels ont été publiés ; leur affichage sur [le profil GitHub](https://github.com/Raf-is-Tech) a été vérifié sur bureau et mobile, dans les deux thèmes.

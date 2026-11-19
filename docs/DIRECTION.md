@@ -26,7 +26,7 @@ Le périmètre WordPress couvre les plugins et les fonctionnalités WooCommerce 
 - Des liens directs vers les démos et des liens vers les fiches du portfolio pour découvrir le contexte de chaque projet.
 - Des SVG autonomes et un générateur Node.js sans dépendance ; aucune requête à un service de badges ou d'images pour afficher les visuels.
 
-Les interactions du README sont les liens des projets et la section de parcours repliable. Les aperçus locaux ont été vérifiés dans Edge avec une feuille de styles GitHub en thèmes clair et sombre, aux largeurs 1280, 390 et 320 pixels. Le rendu exact sur le profil GitHub reste à vérifier après publication. Les fichiers et les commandes de régénération sont documentés dans [VISUELS.md](VISUELS.md).
+Les interactions du README sont les liens des projets et la section de parcours repliable. Les aperçus locaux ont été vérifiés dans Edge avec une feuille de styles GitHub en thèmes clair et sombre, aux largeurs 1280, 390 et 320 pixels. Après publication, le rendu réel sur [le profil GitHub](https://github.com/Raf-is-Tech) a également été vérifié aux largeurs 1280 et 390 pixels dans les deux thèmes : images chargées, bonne variante de bannière, aucun débordement horizontal et parcours repliable fonctionnel. Les fichiers et les commandes de régénération sont documentés dans [VISUELS.md](VISUELS.md).
 
 ## Étapes
 
@@ -36,5 +36,5 @@ Les interactions du README sont les liens des projets et la section de parcours 
 - [x] Intégrer le texte des missions et les captures LinkedIn fournis par l'utilisateur ; corriger le début chez Vertim Coders à novembre 2025.
 - [x] Créer la bannière et la composition visuelle.
 - [x] Vérifier les aperçus locaux sur mobile et dans les deux thèmes.
-- [ ] Vérifier le rendu sur le profil GitHub après publication.
-- [ ] Connecter le dépôt public `Raf-is-Tech/Raf-is-Tech` et publier.
+- [x] Vérifier le rendu sur le profil GitHub après publication.
+- [x] Connecter le dépôt public `Raf-is-Tech/Raf-is-Tech` et publier.

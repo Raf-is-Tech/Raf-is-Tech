@@ -32,4 +32,18 @@ Le [générateur](../scripts/build-assets.mjs) utilise uniquement les modules in
 - Contrôle aux largeurs 1280, 390 et 320 pixels, en thèmes clair et sombre : images chargées, bonne variante de bannière, textes alternatifs et absence de débordement horizontal.
 - Inspection visuelle des captures et ouverture de la section de parcours.
 
-Les aperçus locaux et les outils temporaires sont dans `.preview/`, exclu de Git. Le rendu local ne remplace pas la vérification finale dans le profil GitHub. Le dépôt distant n'a pas été créé ni publié pendant cette étape.
+Les aperçus locaux et les outils temporaires sont dans `.preview/`, exclu de Git.
+
+## Publication et vérification sur GitHub
+
+Le README est publié dans le dépôt public [Raf-is-Tech/Raf-is-Tech](https://github.com/Raf-is-Tech/Raf-is-Tech), sur la branche `main`, et apparaît sur [le profil GitHub](https://github.com/Raf-is-Tech).
+
+Le rendu réel a été contrôlé dans Edge aux largeurs 1280 et 390 pixels, dans les thèmes clair et sombre. Les cinq images visibles sont chargées, les variantes de bannière sont sélectionnées correctement et les tableaux ne débordent pas. La section de parcours s'ouvre et son contenu est visible. Les captures de cette vérification sont conservées localement dans `.preview/github-profile-*.png`.
+
+Pour publier de futures modifications, depuis ce dépôt local :
+
+```sh
+git add README.md assets scripts docs
+git commit -m "docs: update profile"
+git push
+```
