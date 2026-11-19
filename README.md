@@ -1,46 +1,93 @@
-# Moucharaf ADEOCHUN · RAF'STECH
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="./assets/hero-mobile-light.svg">
+  <source media="(max-width: 600px)" srcset="./assets/hero-mobile-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg">
+  <img src="./assets/hero-dark.svg" width="1200" alt="Moucharaf ADEOCHUN · RAF'STECH — Ingénieur logiciel à Cotonou, Bénin. SaaS, web, mobile et e-commerce sur mesure.">
+</picture>
 
-**Ingénieur logiciel · SaaS, web, mobile & e-commerce · Cotonou, Bénin**
+<p align="center">
+  <a href="https://rafstech-portfolio.vercel.app/"><strong>Explorer mon portfolio ↗︎</strong></a>
+  &nbsp; · &nbsp;
+  <a href="https://www.linkedin.com/in/moucharaf-adeochun/">LinkedIn</a>
+  &nbsp; · &nbsp;
+  <a href="mailto:moucharafadeochun59@gmail.com">Parlons de ton projet</a>
+</p>
 
-Je conçois et développe des SaaS, des applications web et mobiles et des solutions e-commerce sur mesure. Je transforme les besoins des utilisateurs en fonctionnalités métier, avec Laravel, React, Next.js, Flutter et des plugins WordPress/WooCommerce personnalisés.
+# Du besoin utilisateur au produit.
 
-[Portfolio](https://rafstech-portfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/moucharaf-adeochun/) · [Me contacter](mailto:moucharafadeochun59@gmail.com)
+Moi, c'est **Moucharaf**, ingénieur logiciel à **Cotonou, Bénin**. Je conçois des **SaaS**, des applications **web et mobiles** et des solutions **e-commerce sur mesure**. J'aime transformer un besoin concret en un outil utile, puis le faire évoluer avec ses utilisateurs.
 
-## Ce que je construis
+Aujourd'hui chez **Vertim Coders**, je développe notamment des plugins **WordPress et WooCommerce**, des fonctionnalités métier et des applications avec **Laravel, React et Flutter**.
 
-- Des SaaS adaptés aux besoins des utilisateurs et des fonctionnalités métier personnalisées.
-- Des plugins WordPress et WooCommerce pour des besoins métier sur mesure.
-- Des solutions e-commerce sur mesure.
-- Des interfaces web avec React et Next.js, et des applications mobiles avec Flutter.
-- Des backends Laravel et des intégrations d'API.
-- Des expérimentations de vision par ordinateur avec Python et OpenCV.
+## 01 / Des idées qui prennent forme
 
-J'accompagne aussi les solutions dans la durée : maintenance, amélioration et évolution des fonctionnalités.
+Quatre projets personnels, quatre façons de construire. Les visuels ouvrent leur fiche sur mon portfolio.
 
-## Projets à explorer
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://rafstech-portfolio.vercel.app/projects/arbojson"><img src="./assets/arbojson.svg" width="560" alt="ArboJSON : illustration d'un éditeur JSON connecté à un arbre de données."></a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://rafstech-portfolio.vercel.app/projects/raflane"><img src="./assets/raflane.svg" width="560" alt="Raflane : illustration d'un tableau de tâches avec trois colonnes et une carte en déplacement."></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://rafstech-portfolio.vercel.app/projects/playgrid"><img src="./assets/playgrid.svg" width="560" alt="Playgrid : illustration de tuiles de 2048, de cartes de memory et d'une manette."></a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://rafstech-portfolio.vercel.app/projects/covatlas"><img src="./assets/covatlas.svg" width="560" alt="CovAtlas : illustration d'une carte et d'un graphique, sans valeurs réelles."></a>
+    </td>
+  </tr>
+</table>
 
-| Projet | Ce qu'il permet de faire | Stack |
-| --- | --- | --- |
-| [ArboJSON](https://rafstech-portfolio.vercel.app/projects/arbojson) | Éditer du JSON et explorer sa structure en arbre ou en graphe | Next.js, TypeScript, Monaco, Reaflow, Zustand |
-| [Raflane](https://rafstech-portfolio.vercel.app/projects/raflane) | Organiser des tâches dans un tableau avec glisser-déposer et sauvegarde locale | React, TypeScript, Vite, Tailwind CSS |
-| [Playgrid](https://rafstech-portfolio.vercel.app/projects/playgrid) | Jouer à 2048, au puzzle, à un jeu de mots et au memory, même hors ligne | React, TypeScript, PWA |
-| [CovAtlas](https://rafstech-portfolio.vercel.app/projects/covatlas) | Explorer des indicateurs COVID-19 par pays sur une carte et dans un tableau | React, Material UI, Leaflet, Chart.js |
+- **[ArboJSON](https://rafstech-portfolio.vercel.app/projects/arbojson)** — Éditer, valider et explorer du JSON en arbre ou en graphe. `Next.js` `TypeScript` · [Essayer ↗︎](https://arbojson.vercel.app/)
+- **[Raflane](https://rafstech-portfolio.vercel.app/projects/raflane)** — Organiser les tâches avec listes, cartes, glisser-déposer et sauvegarde locale. `React` `TypeScript` · [Essayer ↗︎](https://raflane.vercel.app/)
+- **[Playgrid](https://rafstech-portfolio.vercel.app/projects/playgrid)** — 2048, puzzle, jeu de mots et memory, avec sauvegarde des parties et mode hors ligne. `React` `PWA` · [Jouer ↗︎](https://rafplaygrid.vercel.app/)
+- **[CovAtlas](https://rafstech-portfolio.vercel.app/projects/covatlas)** — Explorer des données COVID-19 par pays avec carte interactive et indicateurs. `React` `Leaflet` `Chart.js` · [Explorer ↗︎](https://covatlas.vercel.app/)
 
-## Contributions en entreprise
+## 02 / Du code au terrain
 
-**Ingénieur logiciel chez Vertim Coders depuis novembre 2025**, je participe à la conception, au développement et à l'évolution de SaaS, d'applications web et mobiles et de solutions e-commerce. Parmi mes contributions aux produits WordPress et WooCommerce :
+**Ingénieur logiciel chez Vertim Coders · Depuis novembre 2025**
 
-- **[QuoteFlow](https://rafstech-portfolio.vercel.app/projects/quoteflow)** : contribution au développement d'un plugin de tarification dynamique et de demandes de devis.
-- **[ASO — All Sign Customizer](https://rafstech-portfolio.vercel.app/projects/all-sign-customizer)** : refonte de vues, de logique applicative et d'API pour un configurateur de produits personnalisés.
+Je participe à la conception, au développement, à la maintenance et à l'évolution de solutions digitales. Deux contributions aux produits de l'équipe :
+
+**[QuoteFlow ↗︎](https://rafstech-portfolio.vercel.app/projects/quoteflow)**<br>
+Contribution au développement d'un plugin WordPress/WooCommerce de **tarification dynamique et de demandes de devis** : formules de prix, règles conditionnelles et options personnalisées.
+
+**[ASO — All Sign Customizer ↗︎](https://rafstech-portfolio.vercel.app/projects/all-sign-customizer)**<br>
+**Refonte des vues, de la logique applicative et des API** d'un configurateur WooCommerce pour la personnalisation de produits.
+
+## 03 / Ma boîte à outils
+
+| Pour construire… | J'utilise… |
+| :--- | :--- |
+| Des interfaces web | `React` `Next.js` `TypeScript` `JavaScript` `Tailwind CSS` |
+| Des backends et des fonctionnalités métier | `Laravel` `PHP` `MySQL` `REST API` |
+| Des expériences e-commerce | `WordPress` `WooCommerce` · plugins et intégrations sur mesure |
+| Des applications mobiles | `Flutter` `Dart` |
+| Des explorations en vision par ordinateur | `Python` `OpenCV` |
+| Un historique de travail partagé | `Git` `GitHub` |
 
 <details>
-<summary>Parcours et exploration technique</summary>
+<summary><strong>04 / Le parcours derrière les projets</strong></summary>
 
-- **Depuis novembre 2025** : ingénieur logiciel chez Vertim Coders.
-- **2025** : stage professionnel en développement web backend chez FIFACOM.
-- **2022–2025** : licence en Systèmes informatiques et logiciels, ESM-BENIN.
-- **Projet personnel** : [pointage par reconnaissance faciale](https://rafstech-portfolio.vercel.app/projects/face-recognition) avec Python et OpenCV.
+- **Depuis novembre 2025 — Vertim Coders** : ingénieur logiciel, SaaS, web, mobile et e-commerce.
+- **2025 — FIFACOM** : stage professionnel en développement web backend, avec Laravel, React et intégration d'API.
+- **2022–2025 — ESM-BENIN** : licence en Systèmes informatiques et logiciels.
+
+**Un autre terrain d'exploration : la vision par ordinateur.** Mon [projet de pointage par reconnaissance faciale](https://rafstech-portfolio.vercel.app/projects/face-recognition) utilise Python et OpenCV pour la détection en temps réel, l'administration et les rapports de présence.
 
 </details>
 
-<!-- Base éditoriale de l'étape 1. La direction visuelle est décrite dans docs/DIRECTION.md. -->
+---
+
+<p align="center">
+  <strong>Une idée, un besoin métier, un produit à faire évoluer ?</strong><br>
+  <a href="mailto:moucharafadeochun59@gmail.com">Échangeons →</a>
+  &nbsp; · &nbsp;
+  <a href="https://rafstech-portfolio.vercel.app/">Portfolio</a>
+  &nbsp; · &nbsp;
+  <a href="https://www.linkedin.com/in/moucharaf-adeochun/">LinkedIn</a>
+</p>

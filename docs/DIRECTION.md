@@ -1,10 +1,10 @@
 # Direction du README
 
-## Concept proposé : RAF'STECH / Mission Console
+## Concept réalisé : RAF'STECH / Mission Console
 
 Un profil qui ressemble à l'entrée d'un atelier de création logicielle : une bannière de console, une présentation courte autour des SaaS et des solutions métier sur mesure, des projets que l'on peut explorer et des contributions professionnelles clairement attribuées.
 
-Cette proposition vient du vocabulaire et du design déjà présents dans le portfolio. Elle reste à développer visuellement ; le README actuel est la base éditoriale de la première étape.
+Cette composition reprend la grille, la palette et les repères de console du portfolio. Elle associe une bannière typographique, une illustration de couches logicielles et une galerie de quatre projets. Les descriptions restent en texte sur toute la largeur pour être lisibles sur mobile.
 
 ## Parcours de lecture
 
@@ -17,15 +17,16 @@ Cette proposition vient du vocabulaire et du design déjà présents dans le por
 
 Le périmètre WordPress couvre les plugins et les fonctionnalités WooCommerce personnalisées. Le développement de thèmes est exclu, conformément à la précision de l'utilisateur. Les applications personnelles du catalogue restent décrites selon leurs fonctions réelles ; le positionnement SaaS ne leur attribue pas un modèle commercial non documenté.
 
-## Traitement visuel envisagé
+## Traitement visuel réalisé
 
-- Une bannière SVG originale conservée dans le dépôt, inspirée de la grille, des repères de console et de la palette du portfolio.
-- Une composition lisible en thème clair comme en thème sombre, avec des variantes si nécessaire.
-- Des textes alternatifs descriptifs pour les visuels et du texte Markdown pour les informations essentielles.
-- Des cartes ou séparateurs visuels seulement lorsqu'ils améliorent la lecture.
-- Des animations éventuelles courtes et discrètes, avec une version statique pertinente.
+- Quatre variantes de bannière SVG : bureau et mobile, chacune en thème clair et sombre ; sélection par `<picture>`.
+- Quatre cartes illustrées : JSON et graphe pour ArboJSON, tableau pour Raflane, jeux pour Playgrid, carte et graphique pour CovAtlas.
+- Des illustrations originales ; elles ne sont pas des captures des applications et ne contiennent ni statistiques ni données réelles.
+- Une composition statique, des textes alternatifs descriptifs et du texte Markdown pour les informations essentielles.
+- Des liens directs vers les démos et des liens vers les fiches du portfolio pour découvrir le contexte de chaque projet.
+- Des SVG autonomes et un générateur Node.js sans dépendance ; aucune requête à un service de badges ou d'images pour afficher les visuels.
 
-Les interactions retenues pour le README sont des liens et des sections repliables. Une véritable console interactive restera un renvoi vers le portfolio. Le rendu exact des visuels devra être vérifié sur GitHub avant publication.
+Les interactions du README sont les liens des projets et la section de parcours repliable. Les aperçus locaux ont été vérifiés dans Edge avec une feuille de styles GitHub en thèmes clair et sombre, aux largeurs 1280, 390 et 320 pixels. Le rendu exact sur le profil GitHub reste à vérifier après publication. Les fichiers et les commandes de régénération sont documentés dans [VISUELS.md](VISUELS.md).
 
 ## Étapes
 
@@ -33,6 +34,7 @@ Les interactions retenues pour le README sont des liens et des sections repliabl
 - [x] Ajouter les fichiers de base et un README éditorial.
 - [x] Analyser le portfolio, documenter les limites LinkedIn et vérifier les liens de code publics.
 - [x] Intégrer le texte des missions et les captures LinkedIn fournis par l'utilisateur ; corriger le début chez Vertim Coders à novembre 2025.
-- [ ] Créer la bannière et la composition visuelle.
-- [ ] Vérifier les rendus GitHub sur mobile et dans les deux thèmes.
+- [x] Créer la bannière et la composition visuelle.
+- [x] Vérifier les aperçus locaux sur mobile et dans les deux thèmes.
+- [ ] Vérifier le rendu sur le profil GitHub après publication.
 - [ ] Connecter le dépôt public `Raf-is-Tech/Raf-is-Tech` et publier.

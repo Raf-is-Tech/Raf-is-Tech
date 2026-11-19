@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="460" viewBox="0 0 680 460" role="img" aria-labelledby="title description"><title id="title">Moucharaf ADEOCHUN — RAF'STECH</title><desc id="description">Ingénieur logiciel à Cotonou, Bénin. SaaS, web, mobile et e-commerce sur mesure. Composition adaptée aux petits écrans.</desc>
+<rect width="680" height="460" rx="22" fill="#f0f5f8"/>
+<rect x="1" y="1" width="678" height="458" rx="21" fill="none" stroke="#cfdee7"/>
+<text x="36" y="49" fill="#142536" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" letter-spacing="3">RAF'STECH</text>
+<text x="36" y="88" fill="#08798c" font-family="Arial, Helvetica, sans-serif" font-size="16" letter-spacing="2">INGÉNIEUR LOGICIEL</text>
+<text x="32" y="173" fill="#142536" font-family="Arial, Helvetica, sans-serif" font-size="68" font-weight="700" letter-spacing="-2">Moucharaf</text>
+<text x="31" y="245" fill="#142536" font-family="Arial, Helvetica, sans-serif" font-size="68" font-weight="700" letter-spacing="-2">ADEOCHUN</text>
+<rect x="36" y="266" width="45" height="4" rx="2" fill="#cc294a"/>
+<text x="36" y="312" fill="#52677b" font-family="Arial, Helvetica, sans-serif" font-size="27" >Du besoin utilisateur au produit.</text>
+<text x="36" y="357" fill="#08798c" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700">SaaS</text>
+<circle cx="111" cy="350" r="3" fill="#52677b"/>
+<text x="129" y="357" fill="#142536" font-family="Arial, Helvetica, sans-serif" font-size="21" >Web &amp; mobile</text>
+<circle cx="289" cy="350" r="3" fill="#52677b"/>
+<text x="307" y="357" fill="#142536" font-family="Arial, Helvetica, sans-serif" font-size="21" >E-commerce</text>
+<path d="M36 386H644" stroke="#cfdee7"/>
+<text x="36" y="425" fill="#52677b" font-family="Arial, Helvetica, sans-serif" font-size="17" letter-spacing="2">COTONOU, BÉNIN</text>
+<g transform="translate(493 89) scale(.65)">
+<circle cx="100" cy="90" r="104" fill="none" stroke="#cfdee7" stroke-dasharray="3 7"/>
+<path d="M0 133L100 80 200 133 100 186Z" fill="#dceaf1" stroke="#08798c" stroke-opacity=".4"/>
+<path d="M0 95L100 42 200 95 100 148Z" fill="#dceaf1" stroke="#08798c"/>
+<path d="M0 57L100 4 200 57 100 110Z" fill="#dceaf1" stroke="#cc294a"/>
+<path d="M81 43L66 56 81 69M119 43L134 56 119 69M107 38L93 74" fill="none" stroke="#08798c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<path d="M623 41H644V62M644 41L620 65" fill="none" stroke="#08798c" stroke-width="2"/>
+</svg>

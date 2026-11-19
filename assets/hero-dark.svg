@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" role="img" aria-labelledby="title description"><title id="title">Moucharaf ADEOCHUN — RAF'STECH</title><desc id="description">Ingénieur logiciel à Cotonou, Bénin. SaaS, web, mobile et e-commerce sur mesure. Illustration de couches logicielles connectées.</desc>
+<defs>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#253548" stroke-width="0.7"/></pattern>
+  <radialGradient id="glow"><stop stop-color="#163c51"/><stop offset="1" stop-color="#090d14" stop-opacity="0"/></radialGradient>
+  <linearGradient id="edge" x2="1" y2="1"><stop stop-color="#49dcff"/><stop offset="1" stop-color="#ff3155"/></linearGradient>
+</defs>
+<rect width="1200" height="440" rx="22" fill="#090d14"/>
+<rect x="700" y="16" width="484" height="408" rx="14" fill="url(#grid)" opacity="0.7"/>
+<ellipse cx="954" cy="221" rx="260" ry="218" fill="url(#glow)"/>
+<rect x="1" y="1" width="1198" height="438" rx="21" fill="none" stroke="#253548"/>
+<path d="M38 48V30H56M1162 392V410H1144" fill="none" stroke="#49dcff" stroke-width="2"/>
+<text x="56" y="56" fill="#f5f8ff" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700" letter-spacing="3">RAF'STECH</text>
+<path d="M247 37V58" stroke="#253548"/>
+<text x="265" y="52" fill="#49dcff" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="2.5">SOFTWARE ENGINEER</text>
+<text x="56" y="155" fill="#f5f8ff" font-family="Arial, Helvetica, sans-serif" font-size="76" font-weight="700" letter-spacing="-3">Moucharaf</text>
+<text x="53" y="232" fill="#f5f8ff" font-family="Arial, Helvetica, sans-serif" font-size="76" font-weight="700" letter-spacing="-3">ADEOCHUN</text>
+<rect x="58" y="252" width="54" height="4" rx="2" fill="#ff3155"/>
+<text x="56" y="300" fill="#9aaec2" font-family="Arial, Helvetica, sans-serif" font-size="25" >Du besoin utilisateur au produit.</text>
+<text x="56" y="348" fill="#49dcff" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700">SaaS</text>
+<circle cx="121" cy="342" r="2.5" fill="#9aaec2"/>
+<text x="137" y="348" fill="#f5f8ff" font-family="Arial, Helvetica, sans-serif" font-size="17" >Web &amp; mobile</text>
+<circle cx="265" cy="342" r="2.5" fill="#9aaec2"/>
+<text x="281" y="348" fill="#f5f8ff" font-family="Arial, Helvetica, sans-serif" font-size="17" >E-commerce</text>
+<path d="M56 375H655" stroke="#253548"/>
+<text x="56" y="408" fill="#9aaec2" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="2">COTONOU, BÉNIN</text>
+<text x="401" y="408" fill="#9aaec2" font-family="Arial, Helvetica, sans-serif" font-size="10" letter-spacing="1.1">CONCEVOIR / CONSTRUIRE / ÉVOLUER</text>
+<g fill="none" stroke="#253548"><circle cx="953" cy="217" r="156" stroke-dasharray="3 8"/><ellipse cx="953" cy="217" rx="206" ry="92" transform="rotate(-34 953 217)"/></g>
+<path d="M774 277L952 184 1123 277 946 371Z" fill="#102332" stroke="#253548"/>
+<path d="M774 263L952 170 1123 263 946 357Z" fill="#1b3346" stroke="#49dcff" stroke-opacity="0.5"/>
+<path d="M774 263V277L946 371V357M946 357L1123 263V277" fill="none" stroke="#253548"/>
+<path d="M802 220L953 141 1096 220 946 300Z" fill="#102332" stroke="#253548"/>
+<path d="M802 205L953 126 1096 205 946 285Z" fill="#121e2b" stroke="#49dcff"/>
+<path d="M802 205V220L946 300V285M946 285L1096 205V220" fill="none" stroke="#49dcff" stroke-opacity="0.4"/>
+<path d="M839 162L953 102 1061 162 948 223Z" fill="#102332" stroke="#253548"/>
+<path d="M839 148L953 88 1061 148 948 209Z" fill="#121e2b" stroke="url(#edge)" stroke-width="2"/>
+<path d="M839 148V162L948 223V209M948 209L1061 148V162" fill="none" stroke="#253548"/>
+<g transform="translate(945 145) rotate(-28) skewX(30)" fill="none" stroke="#49dcff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"><path d="M-19-10L-31 0-19 10M19-10L31 0 19 10M6-16L-6 16"/></g>
+<path d="M792 132H748V89H705M1093 235H1144V308H1171M948 326V391H1055" fill="none" stroke="#253548"/>
+<circle cx="792" cy="132" r="4" fill="#49dcff"/><circle cx="1093" cy="235" r="4" fill="#ff3155"/><circle cx="948" cy="326" r="4" fill="#49dcff"/>
+<text x="707" y="79" fill="#9aaec2" font-family="Arial, Helvetica, sans-serif" font-size="10" letter-spacing="1.2">01 / INTERFACE</text>
+<text x="1060" y="334" fill="#9aaec2" font-family="Arial, Helvetica, sans-serif" font-size="10" letter-spacing="1.2">02 / LOGIQUE</text>
+<text x="1066" y="395" fill="#9aaec2" font-family="Arial, Helvetica, sans-serif" font-size="10" letter-spacing="1.2">03 / DONNÉES</text>
+<path d="M1082 93L1094 81M1082 81L1094 93" stroke="#ff3155" stroke-width="2"/>
+<circle cx="814" cy="320" r="5" fill="#090d14" stroke="#49dcff" stroke-width="2"/>
+</svg>

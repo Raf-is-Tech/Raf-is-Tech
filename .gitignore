@@ -17,3 +17,4 @@ Desktop.ini
 node_modules/
 .cache/
 coverage/
+.preview/
