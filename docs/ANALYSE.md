@@ -7,25 +7,34 @@ Analyse réalisée le 19 novembre 2026. Ce document prépare le README ; il ne c
 | Source | Lecture effectuée | Limite |
 | --- | --- | --- |
 | [Portfolio](https://rafstech-portfolio.vercel.app/) | Accueil, compétences, services, catalogue, contact et les dix fiches projet ; HTML public et feuille de styles | Analyse du contenu et du CSS, sans validation visuelle dans un navigateur ni test fonctionnel des applications |
-| [LinkedIn](https://www.linkedin.com/in/moucharaf-adeochun/) | Tentative d'accès direct et recherche ciblée | Accès direct bloqué par LinkedIn, code 999 ; aucun contenu détaillé du profil n'a pu être analysé |
+| [LinkedIn](https://www.linkedin.com/in/moucharaf-adeochun/) | Texte des missions et deux captures du profil transmis par l'utilisateur ; tentatives d'accès direct et recherche ciblée | Accès direct bloqué, code 999 ; analyse limitée aux éléments fournis, sans lecture exhaustive du profil en ligne |
+| Synthèse Bing transmise par l'utilisateur | Comparaison avec le texte des missions, les captures et le portfolio | Source secondaire ; ses formulations ne sont pas toutes confirmées par les sources directes |
 | [Profil GitHub public](https://github.com/Raf-is-Tech) | Profil et liste des dépôts via l'API publique GitHub | Les dépôts privés et le compte authentifié ne sont pas accessibles par cette lecture |
 | [Documentation GitHub](https://docs.github.com/en/account-and-profile/how-tos/profile-customization/managing-your-profile-readme) | Conditions d'affichage d'un README de profil | Le dépôt distant reste à créer ou à connecter |
 
-Les informations de carrière ci-dessous proviennent du portfolio. Ne pas les présenter comme recoupées avec LinkedIn. Pour compléter cette partie ultérieurement, un export ou le texte du profil LinkedIn suffira.
+Les informations ci-dessous combinent le portfolio avec le texte et les captures LinkedIn transmis par l'utilisateur. La capture de l'expérience confirme le titre « Ingénieur logiciel » chez Vertim Coders et un début en novembre 2025. Le texte des missions fourni précise le périmètre professionnel. La capture Formation montre ESM-BENIN, la période 2022–2025 et une licence avec l'intitulé anglais « Computer Programming, Specific Applications ».
+
+Le résumé Bing est un complément à examiner, pas une validation indépendante. La désignation « professor-ingénieur » n'est étayée par aucun élément direct fourni et n'est pas retenue. Le lien LinkedIn avec suffixe numérique mentionné dans ce résumé n'est pas utilisé : le lien canonique transmis initialement reste la référence.
 
 ## Positionnement
 
 Le portfolio présente Moucharaf ADEOCHUN, sous la marque **RAF'STECH**, comme ingénieur logiciel à Cotonou. Le profil GitHub emploie le nom Fulgence Moucharaf ADEOCHUN et le pseudonyme **Raf-is-Tech**.
 
-L'angle le plus précis pour le README est la création d'outils métier et de produits e-commerce : WordPress/WooCommerce et Laravel constituent une spécialité professionnelle, avec React, Next.js et Flutter pour les interfaces web et mobiles. Python/OpenCV apporte une dimension d'exploration, illustrée par un projet concret.
+L'angle retenu pour le README est la conception de **SaaS, d'applications métier et de solutions e-commerce sur mesure**, à partir des besoins des utilisateurs. Le texte transmis confirme le développement de plugins WordPress/WooCommerce, les applications web et mobiles avec Flutter, React et Laravel, ainsi que la maintenance, l'amélioration et l'évolution des solutions. Next.js est documenté par le portfolio, notamment ArboJSON.
 
-La bio GitHub mentionne également Django et les SaaS. Les fiches du portfolio consultées ne les documentent pas suffisamment pour les mettre au premier plan du README initial.
+Le développement de thèmes WordPress est explicitement exclu du périmètre indiqué par l'utilisateur. Le README valorise donc la spécialisation en plugins, configurateurs et fonctionnalités métier. Python/OpenCV apporte une dimension d'exploration, illustrée par un projet concret, sans revendiquer une expertise générale en IA.
+
+La conception de SaaS peut désormais figurer dans la présentation, car elle est directement confirmée par l'utilisateur. Aucun projet précis du catalogue n'est requalifié en SaaS sans information supplémentaire. Django figure dans la bio GitHub, mais reste insuffisamment documenté dans les éléments fournis pour occuper une place centrale.
 
 ## Parcours présenté
 
 - **2022–2025 — ESM-BENIN** : licence en Systèmes informatiques et logiciels.
 - **2025 — FIFACOM** : stage professionnel en développement web backend ; React, Laravel et intégration d'API.
-- **Depuis décembre 2025 — Vertim Coders** : développement web et mobile, plugins WordPress et solutions e-commerce.
+- **Depuis novembre 2025 — Vertim Coders** : ingénieur logiciel ; conception et développement de SaaS, plugins WordPress/WooCommerce, solutions e-commerce, applications web et mobiles ; maintenance et évolution. La capture situe cette expérience à Abomey-Calavi, Bénin ; l'en-tête du profil situe la personne à Cotonou.
+
+La date de début chez Vertim Coders diffère entre le portfolio (décembre 2025) et la capture LinkedIn (novembre 2025). Le README retient **novembre 2025**, conformément au nouvel élément direct fourni. Le portfolio pourra être harmonisé séparément.
+
+L'intitulé de licence du README reprend celui du portfolio ; la capture LinkedIn utilise un libellé anglais plus générique. Le rattachement du projet de reconnaissance faciale à un mémoire apparaît seulement dans la synthèse Bing transmise. Le README conserve la présentation de projet personnel documentée dans le portfolio.
 
 Le portfolio affiche « +2 ans d'expérience ». Le README initial privilégie les dates et les réalisations plutôt qu'un compteur d'ancienneté à maintenir.
 

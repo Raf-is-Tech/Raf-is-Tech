@@ -1,17 +1,21 @@
 # Moucharaf ADEOCHUN · RAF'STECH
 
-**Ingénieur logiciel · Web, mobile & e-commerce · Cotonou, Bénin**
+**Ingénieur logiciel · SaaS, web, mobile & e-commerce · Cotonou, Bénin**
 
-Je construis des applications métier et des expériences e-commerce, du plugin WordPress aux applications React, Next.js, Flutter et Laravel.
+Je conçois et développe des SaaS, des applications web et mobiles et des solutions e-commerce sur mesure. Je transforme les besoins des utilisateurs en fonctionnalités métier, avec Laravel, React, Next.js, Flutter et des plugins WordPress/WooCommerce personnalisés.
 
 [Portfolio](https://rafstech-portfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/moucharaf-adeochun/) · [Me contacter](mailto:moucharafadeochun59@gmail.com)
 
 ## Ce que je construis
 
+- Des SaaS adaptés aux besoins des utilisateurs et des fonctionnalités métier personnalisées.
 - Des plugins WordPress et WooCommerce pour des besoins métier sur mesure.
+- Des solutions e-commerce sur mesure.
 - Des interfaces web avec React et Next.js, et des applications mobiles avec Flutter.
 - Des backends Laravel et des intégrations d'API.
 - Des expérimentations de vision par ordinateur avec Python et OpenCV.
+
+J'accompagne aussi les solutions dans la durée : maintenance, amélioration et évolution des fonctionnalités.
 
 ## Projets à explorer
 
@@ -24,7 +28,7 @@ Je construis des applications métier et des expériences e-commerce, du plugin 
 
 ## Contributions en entreprise
 
-Au sein de **Vertim Coders**, je contribue au développement de produits WordPress et WooCommerce :
+**Ingénieur logiciel chez Vertim Coders depuis novembre 2025**, je participe à la conception, au développement et à l'évolution de SaaS, d'applications web et mobiles et de solutions e-commerce. Parmi mes contributions aux produits WordPress et WooCommerce :
 
 - **[QuoteFlow](https://rafstech-portfolio.vercel.app/projects/quoteflow)** : contribution au développement d'un plugin de tarification dynamique et de demandes de devis.
 - **[ASO — All Sign Customizer](https://rafstech-portfolio.vercel.app/projects/all-sign-customizer)** : refonte de vues, de logique applicative et d'API pour un configurateur de produits personnalisés.
@@ -32,7 +36,7 @@ Au sein de **Vertim Coders**, je contribue au développement de produits WordPre
 <details>
 <summary>Parcours et exploration technique</summary>
 
-- **Depuis décembre 2025** : développement web et mobile chez Vertim Coders.
+- **Depuis novembre 2025** : ingénieur logiciel chez Vertim Coders.
 - **2025** : stage professionnel en développement web backend chez FIFACOM.
 - **2022–2025** : licence en Systèmes informatiques et logiciels, ESM-BENIN.
 - **Projet personnel** : [pointage par reconnaissance faciale](https://rafstech-portfolio.vercel.app/projects/face-recognition) avec Python et OpenCV.
