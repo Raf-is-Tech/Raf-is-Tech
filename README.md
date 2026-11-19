@@ -15,7 +15,7 @@
 
 # Du besoin utilisateur au produit.
 
-Moi, c'est **Moucharaf**, ingénieur logiciel à **Cotonou, Bénin**. Je conçois des **SaaS**, des applications **web et mobiles** et des solutions **e-commerce sur mesure**. J'aime transformer un besoin concret en un outil utile, puis le faire évoluer avec ses utilisateurs.
+Moi, c'est **Moucharaf ADEOCHUN**, alias **RAF'STECH**, ingénieur logiciel à **Cotonou, Bénin**. Je conçois des **SaaS**, des applications **web et mobiles** et des solutions **e-commerce sur mesure**. J'aime transformer un besoin concret en un outil utile, puis le faire évoluer avec ses utilisateurs.
 
 Aujourd'hui chez **Vertim Coders**, je développe notamment des plugins **WordPress et WooCommerce**, des fonctionnalités métier et des applications avec **Laravel, React et Flutter**.
 
