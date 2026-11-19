@@ -1,0 +1,19 @@
+# Fichiers locaux et temporaires
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.tmp
+*.log
+*~
+.vscode/
+.idea/
+
+# Secrets locaux
+.env
+.env.*
+!.env.example
+
+# Éventuels outils de génération et de prévisualisation
+node_modules/
+.cache/
+coverage/
